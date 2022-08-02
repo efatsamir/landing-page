@@ -7,4 +7,4 @@ Font Awesome for icons
 Google fonts 
 
 ### `Live Demo`
-[preview]()
+[preview](https://efatsamir.github.io/landing-page/)
